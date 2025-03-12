@@ -42,8 +42,8 @@ Practice answering questions via text or voice.
 Receive AI-powered feedback.
 Improve your responses and retry for better performance.
 Future Enhancements 🚀
-🔹 More Job Fields & Questions – Expand database for diverse industries.
-🔹 Multilingual Support – Practice in multiple languages.
-🔹 Personalized AI Coach – Adaptive question difficulty based on performance.
-🔹 Real-Time Interview Scoring – Instant grading and analytics.
+-🔹 More Job Fields & Questions – Expand database for diverse industries.
+-🔹 Multilingual Support – Practice in multiple languages.
+-🔹 Personalized AI Coach – Adaptive question difficulty based on performance.
+-🔹 Real-Time Interview Scoring – Instant grading and analytics.
 
